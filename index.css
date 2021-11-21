@@ -165,10 +165,10 @@ p {
 }
 
 .project-image {
-    margin-top: 25px;
-    width: 250px;
-    border: 120;
+    text-decoration: none;
+    color: red;
 }
+
 
 .projects {
     text-align: center;
