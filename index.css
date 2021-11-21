@@ -240,3 +240,7 @@ a {
   margin-right: auto;
   width: 75%;
 }
+
+img {
+  opacity: 0.5;
+} 
