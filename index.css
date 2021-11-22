@@ -11,6 +11,14 @@ html {
     font-family: 'Poppins', sans-serif;
 
  }
+
+embed {
+ display: block; 
+ width: 100%; 
+ border: none; 
+ overflow-y: auto; 
+ overflow-x: hidden;
+}
  
 
 
