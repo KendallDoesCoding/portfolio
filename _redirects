@@ -1,6 +1,11 @@
+// 404 pages
 /en/* /en/404.html 404
 /de/* /de/404.html 404
+
+// Coding Youtube
 /codingYT https://www.youtube.com/channel/UCyuyx7pdCjS3z4R39jffSJg
+
+// Coding Projects
 /duolingo https://duolingo.kendalldoescoding.gq
 /passwordgenerator https://passwordgenerator.kendalldoescoding.gq
 /connectfour https://connectfour.kendalldoescoding.gq
@@ -15,7 +20,11 @@
 /whackthemole https://whackamole.kendalldoescoding.gq
 /youtubestats https://youtuberstats.kendalldoescoding.gq
 /youtuberstats https://youtuberstats.kendalldoescoding.gq
+
+// Youtube URL
 /youtube https://youtube.com
+
+// Back to coding projects
 /rating https://contact1.ratingform.kendalldoescoding.gq
 /ratingform https://contact1.ratingform.kendalldoescoding.gq
 /github https://github.com/KendallDoesCoding
@@ -28,43 +37,6 @@
 /subtonewsletter https://subtonewsletter.kendalldoescoding.gq
 /minecraftip https://minecraftserver.kendalldoescoding.gq
 /songandlyricgen https://colab.research.google.com/drive/1ey676qv3HAKVVXyVGNfnKiYOjvdpC3Dk
-/404 https://404.kendalldoescoding.gq
-/contact1 https://contact1.kendalldoescoding.gq
-/contact1thanks https://contact1.kendalldoescoding.gq/thankyou
-/contact1rating https://contact1.kendalldoescoding.gq/rating
-/contact1submitted https://contact1.kendalldoescoding.gq/ratingformsubmitted
-/about https://kendalldoescoding.gq/#about-me
-/aboutme https://kendalldoescoding.gq/#about-me
-/projects https://kendalldoescoding.gq/#projects
-/contact https://kendalldoescoding.gq/#contact
-/contactme https://kendalldoescoding.gq/#contact
-/contactus https://kendalldoescoding.gq/#contact
-/quiztopics https://quiz.kendalldoescoding.gq/topics
-/quiz https://quiz.kendalldoescoding.gq
-/quizgame https://quiz.kendalldoescoding.gq
-/christmasquiz https://quiz.kendalldoescoding.gq/christmas
-/christmasquizgame https://quiz.kendalldoescoding.gq/christmas
-/fruitquiz https://quiz.kendalldoescoding.gq/fruit
-/fruitquizgame https://quiz.kendalldoescoding.gq/fruit
-/disneyquiz https://quiz.kendalldoescoding.gq/disney
-/footballquiz https://quiz.kendalldoescoding.gq/football
-/presidentsquiz https://quiz.kendalldoescoding.gq/presidents
-/chatapp https://chatapplication.kendalldoescoding.gq
-/questionsuggestion https://quiz.kendalldoescoding.gq/suggestion.html
-/memes https://www.youtube.com/watch?v=dQw4w9WgXcQ
-/zeecoconut https://www.youtube.com/watch?v=w0AOGeqOnFY
-/coconut https://www.youtube.com/watch?v=w0AOGeqOnFY
-/epicyoutuber https://www.youtube.com/c/MrBeast6000
-/mrbeast https://www.youtube.com/c/MrBeast6000
-/mrbeast6000 https://www.youtube.com/watch?v=YBtc2jCYJaU
-/music https://www.youtube.com/watch?v=AFpjrdOAXC8?autoplay=1
-/question1.0 https://docs.google.com/document/d/1-LQ8y5dalmC5RyXJkxpNXwnRaulvIEyV3lQ3HeLkp50/edit?usp=sharing
-/question2.0 https://docs.google.com/document/d/1-LQ8y5dalmC5RyXJkxpNXwnRaulvIEyV3lQ3HeLkp50/edit?usp=sharing
-/question3.0 https://docs.google.com/document/d/1-LQ8y5dalmC5RyXJkxpNXwnRaulvIEyV3lQ3HeLkp50/edit?usp=sharing
-/quiz1.0preview https://6189016559398bfc3cba70f4--quiz-game-by-kendall.netlify.app
-/quiz2.0preview https://61891b99f2ef4c000713aa9d--quiz-game-by-kendall.netlify.app
-/quiz3.0preview https://6189508f261a3f0007eb4892--quiz-game-by-kendall.netlify.app
-/quizrating https://quiz.kendalldoescoding.gq/rating
 /tictactoe https://tictactoe.kendalldoescoding.gq
 /typinggame https://typingame.kendalldoescoding.gq
 /typinggame2 https://typingame.kendalldoescoding.gq/2
@@ -86,5 +58,55 @@
 /musicplayer https://musicplayer.kendalldoescoding.gq
 /pizzaday https://www.google.com/doodles/celebrating-pizza
 /celebratingpizza https://pizzaday.kendalldoescoding.gq
+
+
+// how the main 404 page looks/
+/404 https://404.kendalldoescoding.gq
+
+// Contact/About Me/Projects
+/contact1 https://contact1.kendalldoescoding.gq
+/contact1thanks https://contact1.kendalldoescoding.gq/thankyou
+/contact1rating https://contact1.kendalldoescoding.gq/rating
+/contact1submitted https://contact1.kendalldoescoding.gq/ratingformsubmitted
+/about https://kendalldoescoding.gq/#about-me
+/aboutme https://kendalldoescoding.gq/#about-me
+/projects https://kendalldoescoding.gq/#projects
+/contact https://kendalldoescoding.gq/#contact
+/contactme https://kendalldoescoding.gq/#contact
+/contactus https://kendalldoescoding.gq/#contact
+
+// Quiz and Quiz Related Stuff
+/quiztopics https://quiz.kendalldoescoding.gq/topics
+/quiz https://quiz.kendalldoescoding.gq
+/quizgame https://quiz.kendalldoescoding.gq
+/christmasquiz https://quiz.kendalldoescoding.gq/christmas
+/christmasquizgame https://quiz.kendalldoescoding.gq/christmas
+/fruitquiz https://quiz.kendalldoescoding.gq/fruit
+/fruitquizgame https://quiz.kendalldoescoding.gq/fruit
+/disneyquiz https://quiz.kendalldoescoding.gq/disney
+/footballquiz https://quiz.kendalldoescoding.gq/football
+/presidentsquiz https://quiz.kendalldoescoding.gq/presidents
+/question1.0 https://docs.google.com/document/d/1-LQ8y5dalmC5RyXJkxpNXwnRaulvIEyV3lQ3HeLkp50/edit?usp=sharing
+/question2.0 https://docs.google.com/document/d/1-LQ8y5dalmC5RyXJkxpNXwnRaulvIEyV3lQ3HeLkp50/edit?usp=sharing
+/question3.0 https://docs.google.com/document/d/1-LQ8y5dalmC5RyXJkxpNXwnRaulvIEyV3lQ3HeLkp50/edit?usp=sharing
+/quiz1.0preview https://6189016559398bfc3cba70f4--quiz-game-by-kendall.netlify.app
+/quiz2.0preview https://61891b99f2ef4c000713aa9d--quiz-game-by-kendall.netlify.app
+/quiz3.0preview https://6189508f261a3f0007eb4892--quiz-game-by-kendall.netlify.app
+/quizrating https://quiz.kendalldoescoding.gq/rating
+
+// Other Projects
+/chatapp https://chatapplication.kendalldoescoding.gq
+/questionsuggestion https://quiz.kendalldoescoding.gq/suggestion.html
+
+// youtube videos, etc
+/memes https://www.youtube.com/watch?v=dQw4w9WgXcQ
+/zeecoconut https://www.youtube.com/watch?v=w0AOGeqOnFY
+/coconut https://www.youtube.com/watch?v=w0AOGeqOnFY
+/epicyoutuber https://www.youtube.com/c/MrBeast6000
+/mrbeast https://www.youtube.com/c/MrBeast6000
+/mrbeast6000 https://www.youtube.com/watch?v=YBtc2jCYJaU
+/music https://www.youtube.com/watch?v=AFpjrdOAXC8?autoplay=1
+
+// Mogul Christmas
 /mogulchristmas https://mogulchristmas.kendalldoescoding.gq
 /thechristmassong https://www.youtube.com/watch?v=hwacxSnc4tI
