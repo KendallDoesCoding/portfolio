@@ -1,8 +1,8 @@
-// 404 pages
+# 404 pages
 /en/* /en/404.html 404
 /de/* /de/404.html 404
 
-// Coding Youtube
+# Coding Youtube
 /codingYT https://www.youtube.com/channel/UCyuyx7pdCjS3z4R39jffSJg
 
 // Coding Projects
@@ -21,7 +21,7 @@
 /youtubestats https://youtuberstats.kendalldoescoding.gq
 /youtuberstats https://youtuberstats.kendalldoescoding.gq
 
-// Youtube URL
+# Youtube URL
 /youtube https://youtube.com
 
 // Back to coding projects
@@ -60,10 +60,10 @@
 /celebratingpizza https://pizzaday.kendalldoescoding.gq
 
 
-// how the main 404 page looks/
+# how the main 404 page looks
 /404 https://404.kendalldoescoding.gq
 
-// Contact/About Me/Projects
+# Contact/About Me/Projects
 /contact1 https://contact1.kendalldoescoding.gq
 /contact1thanks https://contact1.kendalldoescoding.gq/thankyou
 /contact1rating https://contact1.kendalldoescoding.gq/rating
@@ -75,7 +75,7 @@
 /contactme https://kendalldoescoding.gq/#contact
 /contactus https://kendalldoescoding.gq/#contact
 
-// Quiz and Quiz Related Stuff
+# Quiz and Quiz Related Stuff
 /quiztopics https://quiz.kendalldoescoding.gq/topics
 /quiz https://quiz.kendalldoescoding.gq
 /quizgame https://quiz.kendalldoescoding.gq
@@ -94,11 +94,11 @@
 /quiz3.0preview https://6189508f261a3f0007eb4892--quiz-game-by-kendall.netlify.app
 /quizrating https://quiz.kendalldoescoding.gq/rating
 
-// Other Projects
+# Other Projects
 /chatapp https://chatapplication.kendalldoescoding.gq
 /questionsuggestion https://quiz.kendalldoescoding.gq/suggestion.html
 
-// youtube videos, etc
+# youtube videos, etc
 /memes https://www.youtube.com/watch?v=dQw4w9WgXcQ
 /zeecoconut https://www.youtube.com/watch?v=w0AOGeqOnFY
 /coconut https://www.youtube.com/watch?v=w0AOGeqOnFY
@@ -107,7 +107,7 @@
 /mrbeast6000 https://www.youtube.com/watch?v=YBtc2jCYJaU
 /music https://www.youtube.com/watch?v=AFpjrdOAXC8?autoplay=1
 
-// Mogul Christmas
+# Mogul Christmas
 /mogulchristmas https://mogulchristmas.kendalldoescoding.gq
 /thechristmassong https://www.youtube.com/watch?v=hwacxSnc4tI
 /babyitscoldoutside https://www.youtube.com/watch?v=6bbuBubZ1yE
