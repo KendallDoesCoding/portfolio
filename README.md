@@ -9,7 +9,7 @@ If you have any issue, downloading the files from github, please reach out to me
 
 Thanks for your support on my projects,
 
-- Owner and creator of the Kendall Portfolio, 
-- KendallDoesCoding
+Owner and creator of the Kendall Portfolio, 
+KendallDoesCoding
 
 
