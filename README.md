@@ -8,7 +8,10 @@ This github is made to upload our portfolio to my [current website](https://kend
 
 If you have any issue, downloading the files from github, please reach out to me at kendall@kendalldoescoding.gq or on, contact@kendalldoescoding.gq
 
+# Subdomains
+All of my website subdomains are located [here](https://kendalldoescoding.gq/subdomains). If you looked at this repo, you may've found the files for the subdomain website.
 
+# Sign off
 Thanks for your support on my projects,
 
 Owner and creator of the Kendall Portfolio, 
