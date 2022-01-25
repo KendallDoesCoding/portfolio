@@ -1,18 +1,18 @@
 .subtext {
-    text-decoration: none;
-    color: #ef744b;
+	text-decoration: none;
+	color: #ef744b;
 }
 
 .h3 {
-    color: #871F78;
+	color: #871F78;
 }
 
-a:link, a:visited {
-  background-color: #f44336;
-  
-color: white;
-  padding: 14px 25px;
-  text-align: center; 
-  text-decoration: none;
-  display: inline-block;
+a:link,
+a:visited {
+	background-color: #f44336;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
 }
