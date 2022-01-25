@@ -14,8 +14,6 @@ All of my website subdomains are located [here](https://kendalldoescoding.gq/sub
 # Sign off
 Thanks for your support on my projects,
 
-Owner and creator of the Kendall Portfolio, 
-
 KendallDoesCoding,
 
 kendall@kendalldoescoding.gq
