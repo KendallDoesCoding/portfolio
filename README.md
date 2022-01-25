@@ -17,4 +17,5 @@ Thanks for your support on my projects,
 Owner and creator of the Kendall Portfolio, 
 
 KendallDoesCoding,
+
 kendall@kendalldoescoding.gq
