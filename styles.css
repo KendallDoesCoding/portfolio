@@ -192,6 +192,11 @@ a {
 	color: black;
 }
 
+.section a {
+  text-decoration: none;
+  color: white;
+}
+
 .contact {
 	height: 99%;
 	width: 99%;
