@@ -6,6 +6,8 @@ This is my portfolio website, you can check it out [here](https://kendalldoescod
 # Important 
 This github is made to upload our portfolio to my [current website](https://kendalldoescoding.gq)
 
+Backup URL for my site is located [here](https://kendalldoescoding.netlify.app/)
+
 If you have any issue, downloading the files from github, please reach out to me at kendall@kendalldoescoding.gq or on, contact@kendalldoescoding.gq
 
 # Subdomains
