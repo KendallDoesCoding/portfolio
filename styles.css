@@ -189,7 +189,12 @@ hr {
 
 a {
 	text-decoration: none;
-	color: white;
+	color: black;
+}
+
+section a {
+  text-decoration: none;
+  color: white;
 }
 
 .contact {
