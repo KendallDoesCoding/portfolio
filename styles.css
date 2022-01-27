@@ -37,6 +37,12 @@ footer {
 	text-align: center;
 }
 
+p.copyright,
+p.email,
+p.email2 {
+    font-size: 1rem;
+}
+
 nav {
 	display: flex;
 	justify-content: space-between;
