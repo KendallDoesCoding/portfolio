@@ -179,6 +179,11 @@ p {
 	color: red;
 }
 
+.project-github {
+	text-decoration: none;
+	color: #1ABC9C;
+}
+
 .projects {
 	text-align: center;
 }
