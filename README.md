@@ -4,7 +4,7 @@ Hey everyone,
 This is my portfolio website, you can check it out [here](https://kendalldoescoding.gq). I followed a tutorial by Ania Kubow for my website, although, I added my own things, variations to it. The tutorial is linked [here](https://www.youtube.com/watch?v=-D6oTPA4vXc)
 
 # Important 
-This github is made to upload our portfolio to my [current website](https://kendalldoescoding.gq)
+This github is made to upload my portfolio to my [current website](https://kendalldoescoding.gq)
 
 Backup URL for my site is located [here](https://kendalldoescoding.netlify.app/)
 
