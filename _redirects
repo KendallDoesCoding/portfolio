@@ -1,11 +1,14 @@
 # 404 pages
-/en/* /en/404.html 404
-/de/* /de/404.html 404
+
+/en/_ /en/404.html 404
+/de/_ /de/404.html 404
 
 # Coding Youtube
+
 /codingYT https://www.youtube.com/channel/UCyuyx7pdCjS3z4R39jffSJg
 
 # Coding Projects
+
 /duolingo https://duolingo.kendalldoescoding.gq
 /passwordgenerator https://passwordgenerator.kendalldoescoding.gq
 /connectfour https://connectfour.kendalldoescoding.gq
@@ -54,8 +57,11 @@
 /pizzaday https://www.google.com/doodles/celebrating-pizza
 /celebratingpizza https://pizzaday.kendalldoescoding.gq
 /randomsong https://random-song-from-album.kendalldoescoding.gq
+/spideygallery http://spidey-gallery.kendalldoescoding.gq
+/spidermangallery http://spidey-gallery.kendalldoescoding.gq
 
 # Contact/About Me/Projects
+
 /contact1 https://contact1.kendalldoescoding.gq
 /contact1thanks https://contact1.kendalldoescoding.gq/thankyou
 /contact1rating https://contact1.kendalldoescoding.gq/rating
@@ -69,6 +75,7 @@
 /hostingviapr https://freehosting-pr.kendalldoescoding.gq
 
 # Mogul Christmas
+
 /mogulchristmas https://mogulchristmas.kendalldoescoding.gq
 /mogul-christmas https://mogulchristmas.kendalldoescoding.gq
 /thechristmassong https://www.youtube.com/watch?v=hwacxSnc4tI
@@ -79,12 +86,15 @@
 /alliwantforchristmas https://www.youtube.com/watch?v=yXQViqx6GMY
 
 # Let It Be
+
 /letitbe https://let-it-be.kendalldoescoding.gq
 
 # Duck Song
+
 /ducksong https://ducksong.kendalldoescoding.gq
 
 # Quiz and Quiz Related Stuff
+
 /quiztopics https://quiz.kendalldoescoding.gq/topics
 /quiz https://quiz.kendalldoescoding.gq
 /quizgame https://quiz.kendalldoescoding.gq
@@ -104,6 +114,7 @@
 /quizrating https://quiz.kendalldoescoding.gq/rating
 
 # Other Projects
+
 /chatapp https://chatapplication.kendalldoescoding.gq
 /questionsuggestion https://quiz.kendalldoescoding.gq/suggestion.html
 
@@ -112,6 +123,7 @@
 # Youtube URL
 
 /youtube https://youtube.com
+
 # youtube videos, etc
 
 /memes https://www.youtube.com/watch?v=dQw4w9WgXcQ
@@ -123,4 +135,5 @@
 /music https://www.youtube.com/watch?v=AFpjrdOAXC8?autoplay=1
 
 # how the main 404 page looks
+
 /404 https://404.kendalldoescoding.gq
