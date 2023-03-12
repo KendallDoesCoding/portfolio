@@ -47,8 +47,13 @@ p.email2 {
 }
 
 nav {
+
   display: flex;
   justify-content: space-between;
+}
+
+.nav .container1{
+margin-top: 50px;
 }
 
 ul {
@@ -162,8 +167,8 @@ p {
 /* } */
 
 .logo {
-  height: 150px;
-  margin: 15px;
+  height: 250px;
+  margin: -2px;
 }
 
 .social {
