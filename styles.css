@@ -48,9 +48,9 @@ p.email2 {
 }
 
 nav {
-
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .nav .container1{
@@ -62,13 +62,14 @@ ul {
   list-style-type: none;
   width: 500px;
   justify-content: space-around;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 #nav-list a {
   display: block;
   position: relative;
   padding: 0.2em 0;
+  font-weight: bold;
 }
 
 #nav-list a::after {
@@ -168,8 +169,8 @@ p {
 /* } */
 
 .logo {
-  height: 250px;
-  margin: -2px;
+  height: 160px;
+  margin-left: 10px;
 }
 
 .social {
