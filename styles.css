@@ -9,6 +9,7 @@ body {
   min-height: 100%;
   width: 100%;
   font-family: "Poppins", sans-serif;
+  user-select: none;
 }
 
 embed {
@@ -21,18 +22,21 @@ embed {
 
 section {
   background-color: white;
-  border: solid black 1px;
+  border-top: solid black 1px;
+  padding-bottom: 80px;
+  /* border-top: ; */
 }
 
 .hero {
   background-color: #1c1d25;
-  height: 100vh;
+  /* height: 100vh; */
   color: white;
   font-size: 40px;
 }
 
 footer {
-  height: 350px;
+  /* height: 350px; */
+  padding: 80px;
   background-color: white;
   text-align: center;
 }
@@ -46,6 +50,11 @@ p.email2 {
 nav {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+.nav .container1{
+margin-top: 50px;
 }
 
 ul {
@@ -53,8 +62,34 @@ ul {
   list-style-type: none;
   width: 500px;
   justify-content: space-around;
-  font-size: 30px;
+  font-size: 20px;
 }
+
+#nav-list a {
+  display: block;
+  position: relative;
+  padding: 0.2em 0;
+  font-weight: bold;
+}
+
+#nav-list a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0.1em;
+  background-color: #ffff;
+  opacity: 0;
+  transition: opacity 300ms, transform 300ms;
+}
+
+#nav-list a:hover::after, 
+#nav-list a:focus::after {
+  opacity: 1;
+  transform: translate3d(0, 0.2em, 0);
+ }
+
 
 ul.show {
   display: block;
@@ -91,15 +126,18 @@ p {
 
 .hero-area {
   display: flex;
-  height: 100%;
+  /* height: 100%; */
+  width: 90%;
+  margin: 0 auto;
   justify-content: space-between;
   align-items: center;
+  padding: 130px 0;
 }
 
-.hero-text {
-  margin-left: 80px;
-  margin-bottom: 200px;
-}
+/* .hero-text {
+  /* margin-left: 80px; */
+  /* margin-bottom: 200px; */
+/* }  */
 
 .button {
   width: 200px;
@@ -122,13 +160,17 @@ p {
   color: #808080;
 }
 
-.socials {
-  padding-bottom: 200px;
+.project-link:hover, .project-image:hover, .project-github:hover{
+  color: #2b2c38;
 }
 
+/* .socials {
+  /* padding-bottom: 200px; */
+/* } */
+
 .logo {
-  height: 150px;
-  margin: 15px;
+  height: 160px;
+  margin-left: 10px;
 }
 
 .social {
@@ -137,6 +179,7 @@ p {
 
 .sub-section {
   display: flex;
+  flex-direction: row ;
   justify-content: space-around;
   padding: 80px;
 }
@@ -155,9 +198,11 @@ p {
 
 .project-card {
   width: 300px;
-  height: 500px;
+  /* height: 500px; */
   box-shadow: 5px 5px 20px rgb(197, 195, 195);
-  margin: 10px;
+  margin: 15px;
+  border-radius: 9px;
+  padding: 20px 10px;
 }
 
 .project-container,
@@ -246,6 +291,11 @@ section a {
   }
   .logo {
     display: none;
+  }
+
+  .sub-section{
+    display: flex;
+    flex-direction:column-reverse;
   }
 }
 
