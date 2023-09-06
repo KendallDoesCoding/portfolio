@@ -6,7 +6,3 @@ function toggleButton() {
 }
 
 hamburgerButton.addEventListener("click", toggleButton);
-
-function getVisits(response) {
-  document.querySelector("#visits").textContent = response.value;
-}
