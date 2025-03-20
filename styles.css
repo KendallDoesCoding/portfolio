@@ -202,7 +202,6 @@ p {
     border-radius: 50%; /* Makes it circular */
     object-fit: cover; /* Keeps the face properly cropped */
     border: 15px solid #fff; /* Adjust border thickness and color */
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Optional: Soft shadow effect */
 }
 
 .project-card {
