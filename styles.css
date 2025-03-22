@@ -197,8 +197,11 @@ p {
 }
 
 .headshot {
-  width: 300px;
-  border: 150px;
+    width: 350px; /* Image size */
+    height: 350px; /* Ensure it's a perfect square */
+    border-radius: 50%; /* Makes it circular */
+    object-fit: cover; /* Keeps the face properly cropped */
+    border: 15px solid #fff; /* Adjust border thickness and color */
 }
 
 .project-card {
